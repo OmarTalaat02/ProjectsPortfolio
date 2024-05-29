@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    flex-direction: column;  /* Stacks flex items vertically */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c34;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    font-size: 48px;
+}
+
+.clock {
+    margin-bottom: 20px; /* Adds some space between the clock and the dropdown */
+    padding: 20px;
+    border: 1px solid #4c6060;
+    border-radius: 10px;
+}
+
+.timezone-selector {
+    width: 20%; /* Set a width for the dropdown */
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #61dafb;
+    background-color: #333;
+    color: white;
+    font-size: 18px; /* Set font size for the dropdown items */
+    cursor: pointer; /* Changes cursor type on hover */
+}
+
+.timezone-selector:hover {
+    background-color: #444; /* Darker background on hover for better interaction */
+}
