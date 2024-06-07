@@ -15,7 +15,7 @@ body {
     margin-bottom: 20px; /* Adds some space between the clock and the dropdown */
     padding: 20px;
     border: 1px solid #4c6060;
-    border-radius: 10px;
+    border-radius: 9px;
 }
 
 .timezone-selector {
