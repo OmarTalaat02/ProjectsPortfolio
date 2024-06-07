@@ -2,7 +2,7 @@
 Welcome to my "Projects Portfolio!" This repository showcases a series of projects developed as part of my journey in learning and mastering programming. 
 From simple applications like a Todo List app to more complex projects like a Tic Tac Toe game with AI incorporated, each project demonstrates different aspects of software development principles.
 
-Projects Overview
+Project Overview
 
 Digital Clock: A real-time digital clock application displaying the current time and date, utilizing Java's time manipulation capabilities.
 
